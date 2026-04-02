@@ -104,3 +104,11 @@ p {
 .story h2 {
   margin-bottom: 20px;
 }
+.profile-photo img {
+  width: 180px;      /* adjust size as needed */
+  height: 180px;
+  border-radius: 50%; /* makes it circular */
+  margin: 20px auto;
+  display: block;
+  border: 3px solid #1f2a38;
+}
