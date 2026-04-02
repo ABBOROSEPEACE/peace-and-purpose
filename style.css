@@ -96,3 +96,11 @@ p {
 .contact a:hover {
   text-decoration: underline;
 }
+.story {
+  padding: 60px 20px;
+  background-color: #ffffff;
+}
+
+.story h2 {
+  margin-bottom: 20px;
+}
