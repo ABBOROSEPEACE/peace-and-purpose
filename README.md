@@ -8,7 +8,7 @@ This space is a reflection of my journey, my growth, and my mission to inspire y
 
 ## About Me
 
-My name is ABBO ROSE PEAC. I am a content creator, mental health advocate, and the founder of Peace & Purpose. I create content focused on self-discovery, emotional well-being, and personal growth, especially for young people navigating life in challenging environments.
+My name is ABBO ROSE PEACE. I am a content creator, mental health advocate, and the founder of Peace & Purpose. I create content focused on self-discovery, emotional well-being, and personal growth, especially for young people navigating life in challenging environments.
 
 ## Purpose of This Website
 
